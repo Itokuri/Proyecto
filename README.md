@@ -3,6 +3,6 @@
 Maximo Escobar
 Carolina cavalitto
 
-4-3
+4-3/
 Ciclo 2021
-Computacion
+/Computacion
